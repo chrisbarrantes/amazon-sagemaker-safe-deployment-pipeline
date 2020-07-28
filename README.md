@@ -43,7 +43,7 @@ Create your AWS account at [http://aws.amazon.com](http://aws.amazon.com) by fol
 
 Click on the **Launch Stack** button below to launch the CloudFormation Stack to set up the SageMaker safe deployment pipeline.
 
-[![Launch CFN stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=sagemaker-safe-deployment-stack&templateURL=https://cb-scratch-bucket.s3.amazonaws.com/sagemaker/pipeline.yml){:target="_blank"}
+[![Launch stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=sagemaker-safe-deployment-stack&templateURL=https://cb-scratch-bucket.s3.amazonaws.com/sagemaker/pipeline.yml)
 
 Provide a stack name eg **sagemaker-safe-deployment-pipeline** and specify the parameters
 
